@@ -1,12 +1,12 @@
 
 let clrs = [
-'#ad2d4d', //top 0
-'#e053a3', //middle top 1
-'#aa92f7', //middle strip 2
-'#4b2dad', //middle bottom 3
-'#6f5ee0' //bottom 4
+'#317687', //top 0
+'#77f7ea', //middle top 1
+'#d47f20', //middle strip 2
+'#3c823c', //middle bottom 3
+'#86f086' //bottom 4
 ]
-//attempting to make the lilac inside look darker on the bottom and lighter at the top
+//attempting to make the brown inside look lighter on the bottom and darker at the top
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
